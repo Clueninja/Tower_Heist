@@ -30,7 +30,7 @@ We would definitely would like to add more game mechanics (something we are some
 
 Credits:
 Finn (Programmer)
-Sammy (Programmer)
+Sam (Programmer)
 Will (Graphics & room design)
 Dan( Graphics & room design)
 William (Graphics & room design)
